@@ -1,4 +1,30 @@
-### Hi there 👋
+```
+       __       __
+  ___ / /_____ / /
+ (_-</  '_/ -_) / 
+/___/_/\_\\__/_/  
+		
+```
+
+[Find my projects at skel.cc](https://skel.cc)
+
+# About Me
+
+🌱 I’m currently learning
+
+- [Rust](https://rust-lang.org)
+
+📫 How to reach me:
+
+Discord: SkeletonsAreBad#9999
+
+Twitter: [@SkeletonsAreBad](https://twitter.com/SkeletonsAreBad)
+
+DEV Community: [@skeletonsarebad](https://dev.to/skeletonsarebad)
+
+YouTube: [SkeletonsAreBad](https://www.youtube.com/channel/UC2Cyq7wBfqoG25ofU6usnpw)
+
+⚡ Fun fact: I spend too much time on Discord
 
 <!--
 **SkeletonsAreBad/SkeletonsAreBad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
