@@ -6,7 +6,7 @@
 		
 ```
 
-[Find my projects at skel.cc](https://skel.cc)
+🔧 [Find my projects at skel.cc](https://skel.cc)
 
 # About Me
 
@@ -24,7 +24,7 @@ DEV Community: [@skeletonsarebad](https://dev.to/skeletonsarebad)
 
 YouTube: [SkeletonsAreBad](https://www.youtube.com/channel/UC2Cyq7wBfqoG25ofU6usnpw)
 
-⚡ Fun fact: I spend too much time on Discord
+⚡ Fun fact: Skeletons are bad
 
 <!--
 **SkeletonsAreBad/SkeletonsAreBad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
