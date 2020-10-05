@@ -1,19 +1,8 @@
 <div align="center">
  	<img height="128px" src="https://skel.cc/img/skeletonsarebad-logo-x512.png" alt="SkeletonsAreBad logo" />
-	<p><a href="[website]">Website</a> | <a href="[dev]">DEV Community</a> | <a href="[twitter]">Twitter</a> | <a href="[youtube]">YouTube</a> | <a href="[steam]">Steam</a></p>
+	<p><a href="https://skel.cc">Website</a> | <a href="https://dev.to/skeletonsarebad">DEV Community</a> | <a href="https://twitter.com/SkeletonsAreBad">Twitter</a> | <a href="https://www.youtube.com/channel/UC2Cyq7wBfqoG25ofU6usnpw">YouTube</a> | <a href="https://steamcommunity.com/id/SkeletonsAreBad">Steam</a></p>
 </div>
 
-[![skel's github stats](https://github-readme-stats.vercel.app/api?username=SkeletonsAreBad&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkeletonsAreBad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-⚡ Fun fact: Skeletons are bad
-
-[website]: https://skel.cc
-[twitter]: https://twitter.com/SkeletonsAreBad
-[dev]: https://dev.to/skeletonsarebad
-[youtube]: https://www.youtube.com/channel/UC2Cyq7wBfqoG25ofU6usnpw
-[steam]: https://steamcommunity.com/id/SkeletonsAreBad
 
 <!--
 **SkeletonsAreBad/SkeletonsAreBad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
