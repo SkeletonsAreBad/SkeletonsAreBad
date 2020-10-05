@@ -1,6 +1,5 @@
-<div style="text-align:center">
- 	<img src="https://skel.cc/img/skeletonsarebad-logo-x512.png" alt="SkeletonsAreBad logo" />
-	<h3>cool and good</h3>
+<div align="center">
+ 	<img height="128px" src="https://skel.cc/img/skeletonsarebad-logo-x512.png" alt="SkeletonsAreBad logo" />
 	<p><a href="[website]">Website</a> | <a href="[dev]">DEV Community</a> | <a href="[twitter]">Twitter</a> | <a href="[youtube]">YouTube</a> | <a href="[steam]">Steam</a></p>
 </div>
 
