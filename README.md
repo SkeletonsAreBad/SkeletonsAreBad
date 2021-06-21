@@ -1,6 +1,9 @@
 <div align="center">
- 	<img height="128px" src="https://skel.cc/img/skeletonsarebad-logo-x512.png" alt="SkeletonsAreBad logo" />
-	<p><a href="https://skel.cc">Website</a> | <a href="https://twitter.com/SkeletonsAreBad">Twitter</a> | <a href="https://www.youtube.com/c/SkeletonsAreBad">YouTube</a></p>
+ 	<img height="128px" src="https://avatars.githubusercontent.com/u/16013291?v=4" alt="SkeletonsAreBad Avatar" />
+	<h1>SkeletonsAreBad</h1>
+	<p>Website: <a href="https://skeletonsarebad.com">skeletonsarebad.com</a></p>
+	<p>Twitter: <a href="https://twitter.com/SkeletonsAreBad">@SkeletonsAreBad</a></p>
+	<p>YouTube: <a href="https://youtube.com/c/SkeletonsAreBad">SkeletonsAreBad</a></p>
 </div>
 
 
